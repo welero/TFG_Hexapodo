@@ -6,15 +6,16 @@ LISTA DE CONSTRAINTS => Dynamixels.srcs/constrs_1/new/constraints.xdc
 
 ARCHIVO DEL RELOJ => Dynamixels.srcs/sources_1/ip/clk_wiz/clk_wiz.xciç
 
-MÓDULOS DE VIVADO => Dynamixels.srcs/sources_1/new/Delay.v
-                                                   TriState.v
-                                                   arbiter.v
-                                                   binary_to_BCD.v
-                                                   btn_debouncer.v
-                                                   segment_clk_divider.v
-                                                   segment_control.v
-                                                   seven_segment_top.v
-                                                   st_pack.v
-                                                   top.v
-                                                   uart_rx.v
-                                                   uart_tx.v
+MÓDULOS DE VIVADO => Dynamixels.srcs/sources_1/new/
+  - Delay.v
+  - TriState.v
+  - arbiter.v
+  - binary_to_BCD.v
+  - btn_debouncer.v
+  - segment_clk_divider.v
+  - segment_control.v
+  - seven_segment_top.v
+  - st_pack.v
+  - top.v
+  - uart_rx.v
+  - uart_tx.v
